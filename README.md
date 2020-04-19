@@ -1,2 +1,2 @@
 # All-JavaScript
-Hanya folder penyimpan JS saja
+Sarana penyimpan file JS untuk script yang saya bagikan di blog tutorial.
